@@ -1,7 +1,14 @@
 # TODO
 - [x] Fjern default jobs.
 - [x] Lav Borger job.
-- [ ] Lav Admin on Duty Job.
+- [x] Lav Admin on Duty Job.
+- [x] Tilføj Bitminers 2 + Extras.
+- [x] Lav Staffmode.
+- [x] Tilføj Admin Popups, lavet lidt om på det.
+- [x] Tilføj UTime.
+- [x] Tilføj AtlasChat.
+- [ ] Lav TylerB's Money Request om til Mobile Pay.
+- [ ] Tilføj Mobile Pay til normal brug.
 - [ ] Få logs.
 - [ ] Lave HUDs.
 - [ ] Tilføj mere til TODO.
