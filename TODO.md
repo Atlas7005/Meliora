@@ -1,4 +1,5 @@
 # TODO
+- [ ] Tilføj mere til TODO.
 - [x] Fjern default jobs.
 - [x] Lav Borger job.
 - [x] Lav Admin on Duty Job.
@@ -7,8 +8,8 @@
 - [x] Tilføj Admin Popups, lavet lidt om på det.
 - [x] Tilføj UTime.
 - [x] Tilføj AtlasChat.
+- [x] Lav Custom Jail (ajail)
+- [ ] Lave HUDs.
+- [ ] Få logs.
 - [ ] Lav TylerB's Money Request om til Mobile Pay.
 - [ ] Tilføj Mobile Pay til normal brug.
-- [ ] Få logs.
-- [ ] Lave HUDs.
-- [ ] Tilføj mere til TODO.
