@@ -9,7 +9,9 @@
 - [x] Tilføj UTime.
 - [x] Tilføj AtlasChat.
 - [x] Lav Custom Jail (ajail)
-- [ ] Lave HUDs.
-- [ ] Få logs.
+- [x] Lave HUDs.
+- [x] Få logs.
+- [x] Lav Datacenter ejer/arbejder jobs.
+- [x] Tilføj fading door.
 - [ ] Lav TylerB's Money Request om til Mobile Pay.
 - [ ] Tilføj Mobile Pay til normal brug.

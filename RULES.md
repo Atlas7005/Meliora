@@ -64,6 +64,10 @@
 - **§VH2.** Våbenhandlere må ikke indgå i kriminelle handlinger.  
   - **§VH2a.** Våbenhandlere må dog godt eje printere.  
 - **§VH3.** Våbenhandlere må kun købe Håndpistol eller SMG til sig selv.  
+## Datacenter Personale
+- **DC1.** Datacenter Personale må ikke eje printere.
+  - **DC1a.** Datacenter Personale må godt holde printere som en bank.
+- **DC2.** Datacenter Personale må ikke have våben. Hvis der skal vagt på, må personale hyre en.
 ## Hjemløs
 - **§H1.** Hjemløs må ikke eje nogen egendomme eller biler.  
 - **§H2.** Hjemløs må kun bygge på gaden, ikke på vejen.  
