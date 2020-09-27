@@ -13,5 +13,10 @@
 - [x] Få logs.
 - [x] Lav Datacenter ejer/arbejder jobs.
 - [x] Tilføj fading door.
+- [ ] Våben
+- [ ] Våbenhandler job
+- [ ] Biler
+- [ ] Car Dealer
+- [ ] VCMod
 - [ ] Lav TylerB's Money Request om til Mobile Pay.
 - [ ] Tilføj Mobile Pay til normal brug.
