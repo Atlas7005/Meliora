@@ -1,5 +1,11 @@
 # TODO
+## Ufærdig
 - [ ] Tilføj mere til TODO.
+- [ ] Våbenhandler job.
+- [ ] Lav en masse jobs lol.
+- [ ] Lav TylerB's Money Request om til Mobile Pay.
+- [ ] Tilføj Mobile Pay til normal brug.
+## Færdig
 - [x] Fjern default jobs.
 - [x] Lav Borger job.
 - [x] Lav Admin on Duty Job.
@@ -15,7 +21,3 @@
 - [x] Tilføj fading door.
 - [x] Våben.
 - [x] Ny map. (rp_eastcoast_v4b)
-- [ ] Våbenhandler job.
-- [ ] Lav en masse jobs lol.
-- [ ] Lav TylerB's Money Request om til Mobile Pay.
-- [ ] Tilføj Mobile Pay til normal brug.
