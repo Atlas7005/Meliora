@@ -13,10 +13,9 @@
 - [x] Få logs.
 - [x] Lav Datacenter ejer/arbejder jobs.
 - [x] Tilføj fading door.
-- [ ] Våben
-- [ ] Våbenhandler job
-- [ ] Biler
-- [ ] Car Dealer
-- [ ] VCMod
+- [x] Våben.
+- [x] Ny map. (rp_eastcoast_v4b)
+- [ ] Våbenhandler job.
+- [ ] Lav en masse jobs lol.
 - [ ] Lav TylerB's Money Request om til Mobile Pay.
 - [ ] Tilføj Mobile Pay til normal brug.
