@@ -1,7 +1,6 @@
 # TODO
 ## Ufærdig
 - [ ] Tilføj mere til TODO.
-- [ ] Våbenhandler job.
 - [ ] Lav en masse jobs lol.
 - [ ] Lav TylerB's Money Request om til Mobile Pay.
 - [ ] Tilføj Mobile Pay til normal brug.
@@ -21,3 +20,6 @@
 - [x] Tilføj fading door.
 - [x] Våben.
 - [x] Ny map. (rp_eastcoast_v4b)
+- [x] Våbenhandler job.
+- [x] Hjemløs job.
+- [x] Balancere Bitminers 2 + Extras.
